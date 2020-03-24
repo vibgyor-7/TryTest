@@ -1,13 +1,13 @@
-1) Auto fill web form using javascript. In Hindi : https://www.youtube.com/watch?v=SBTQmDVOpOw&t=333s
-2) How to Automate Data Entry in a web form using excel macros : https://www.youtube.com/watch?v=T6HRjiAdW38
-3) https://www.excell-en.com/google-sheets-macro-scheduling-tutorial
-4) https://www.computerworld.com/article/2469616/business-intelligence-79661-how-to-create-an-automatically-updating-spreadsheet.html#slide1
-5) https://sites.google.com/site/scriptsexamples/learn-by-example/parsing-html
-6) https://www.thelacunablog.com/how-login-website-google-script.html
-7) https://stackoverflow.com/questions/21621019/google-apps-script-login-to-website-with-http-request
-8) https://www.youtube.com/watch?v=8Ht4Ddk8te4
-9) https://stackoverflow.com/questions/40776895/document-getelementbyid-in-google-script-not-working
-10) https://stackoverflow.com/questions/2381572/how-can-i-trigger-a-javascript-event-click
-11) https://stackoverflow.com/questions/37603335/how-to-get-the-redirected-url-in-javascript
-12) https://www.youtube.com/watch?v=8Ht4Ddk8te4
-13) https://www.youtube.com/watch?time_continue=164&v=6S6ib0dv0qk&feature=emb_title
+1) Auto fill web form using javascript (In Hindi) : https://www.youtube.com/watch?v=SBTQmDVOpOw&t=333s
+2) Automate Data Entry in a web form using EXCEL MACROS : https://www.youtube.com/watch?v=T6HRjiAdW38
+3) Google Sheets Macro Scheduling Tutorial : https://www.excell-en.com/google-sheets-macro-scheduling-tutorial
+4) Create an automatically updating Google Sheet (Get Empty Cells and update) : https://www.computerworld.com/article/2469616/business-intelligence-79661-how-to-create-an-automatically-updating-spreadsheet.html#slide1
+5) Parsing HTML Page (Google Script Methods) : https://sites.google.com/site/scriptsexamples/learn-by-example/parsing-html
+6) Login to a website via Google Script : https://www.thelacunablog.com/how-login-website-google-script.html
+7) Google Apps Script login to website with HTTP request : https://stackoverflow.com/questions/21621019/google-apps-script-login-to-website-with-http-request
+8) Read write from Google sheets using Web app : https://www.youtube.com/watch?v=8Ht4Ddk8te4
+9) document.getelementbyId in Google Script : https://stackoverflow.com/questions/40776895/document-getelementbyid-in-google-script-not-working
+10) Trigger a JavaScript event click : https://stackoverflow.com/questions/2381572/how-can-i-trigger-a-javascript-event-click
+11) Get the redirected url in javascript : https://stackoverflow.com/questions/37603335/how-to-get-the-redirected-url-in-javascript
+12) How to Automate Data Entry in Google Forms : https://www.youtube.com/watch?time_continue=164&v=6S6ib0dv0qk&feature=emb_title
+13) Web scraping using google sheet : https://www.youtube.com/results?search_query=Web+scraping+using+google+sheet
